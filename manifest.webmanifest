@@ -1,0 +1,15 @@
+{
+  "name": "Corrida do Carinho — COPAPA",
+  "short_name": "Corrida Carinho",
+  "description": "Colete os produtos COPAPA no seu carrinho! Jogo oficial das marcas Carinho, Plus, Bom Pety e Classy.",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a1e4a",
+  "theme_color": "#0a1e4a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
